@@ -1,6 +1,6 @@
 import { Canvas } from "@react-three/fiber";
 import "./hero.css";
-import Shape from "./shape";
+import Shape from "./Shape";
 import Speech from "./Speech";
 import { motion } from "motion/react";
 import { Suspense } from "react";
